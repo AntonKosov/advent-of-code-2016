@@ -1,5 +1,8 @@
 {
     "cSpell.enableFiletypes": [
         "!plaintext"
+    ],
+    "cSpell.words": [
+        "heapify"
     ]
 }
